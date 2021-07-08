@@ -1,0 +1,16 @@
+{
+"companyName": "ARG Augmented Labs",
+"productName": "ARWT Example Proj",
+"productVersion": "1.0",
+"dataUrl": "WebGL Build.data.unityweb",
+"wasmCodeUrl": "WebGL Build.wasm.code.unityweb",
+"wasmFrameworkUrl": "WebGL Build.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.9f1"
+}
